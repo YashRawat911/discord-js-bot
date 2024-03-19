@@ -44,7 +44,7 @@ module.exports = {
 
   ECONOMY: {
     ENABLED: true,
-    CURRENCY: "⚡️",
+    CURRENCY: "🏆",
     DAILY_COINS: 10, // coins to be received by daily command
     MIN_BEG_AMOUNT: 100, // minimum coins to be received when beg command is used
     MAX_BEG_AMOUNT: 2500, // maximum coins to be received when beg command is used
@@ -70,7 +70,7 @@ module.exports = {
 
   GIVEAWAYS: {
     ENABLED: true,
-    REACTION: "⭐️",
+    REACTION: "🎁",
     START_EMBED: "#FF468A",
     END_EMBED: "#FF468A",
   },
